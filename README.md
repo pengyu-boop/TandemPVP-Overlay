@@ -9,7 +9,7 @@ Real-time Pokemon GO PVP battle overlay that detects opponent pokemon and displa
 - Auto-detects opponent's Pokemon from screen using OCR
 - Shows recommended charged moves with energy requirements
 
-[![Watch Demo]([https://youtube.com](https://drive.google.com/file/d/1LeB2Xu_Cz5lrNfCho1UTUhiQO4cS6zlz/view?usp=drive_link)](https://drive.google.com/file/d/1LeB2Xu_Cz5lrNfCho1UTUhiQO4cS6zlz/view?usp=drive_link)]([https://youtube.com](https://drive.google.com/file/d/1LeB2Xu_Cz5lrNfCho1UTUhiQO4cS6zlz/view?usp=drive_link))
+<iframe width="560" height="315" src="https://www.youtube.com/embed/video-id](https://drive.google.com/file/d/1LeB2Xu_Cz5lrNfCho1UTUhiQO4cS6zlz/preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Opponent Analysis
 - Displays all possible competitive movesets for detected Pokemon
 - Shows energy cost for each charged move (how many fast moves needed)
